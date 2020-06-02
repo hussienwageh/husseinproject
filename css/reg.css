@@ -1,0 +1,48 @@
+body{ 
+  background-image: url("imgs/wego.gif");
+  background-position:center;
+  background-repeat:no-repeat;
+  direction:fixed;
+  background-size: 100%;
+}
+.bl{
+  filter:drop-shadow(1px 7px 6px green);
+}
+h1
+{
+	color:#7FFF00;
+	font-family:Comic Sans MS;
+	
+}
+p{
+	font-family:Comic Sans MS;
+}
+.one
+{
+	color:#BF453F;
+}
+.two
+{
+	color:#BF453F;
+	font-family:Rockwell;
+	font-size:19;
+}
+.third
+{
+	color:FF0000;
+	font-family:comic Sans MS;
+	font-size:20;
+}
+a{
+	color:8000CE;
+	text-decoration:none;
+	
+}
+	
+a:hover
+{
+	color:Yellow;
+	 font-weight:bold;
+	
+	
+}

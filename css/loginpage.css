@@ -1,0 +1,51 @@
+body
+{
+background-image:url("imgs/mp2.gif");
+background-repeat:no-repeat;
+direction:fixed;
+background-position:center;
+background-size:100%;
+}
+
+
+a{
+	
+	text-decoration:none;
+	
+}
+h1 
+{
+	font-size : 60px;
+	font-family:Trebuchet MS;
+	color : #90EE90	;
+}
+p 
+{
+	font-size:25px;
+	font-family:Comic Sans MS;
+	color:#D2691E;
+}
+button {
+  background-color: D8D3D3;
+  color:#D2691E;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  font-size : 15;
+   border-radius: 8px;
+}
+
+button:hover
+{
+	opacity:0.8;
+	font-weight:bold;
+	
+
+}
+a:hover
+{
+	color:yellow;	
+	font-weight:bold;
+}

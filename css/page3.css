@@ -1,0 +1,37 @@
+body
+{
+background-image:url("imgs/tt.gif");
+background-repeat:no-repeat;
+direction:fixed;
+background-position:center;
+background-size:70%;
+
+}
+
+h3
+{
+	font-style:italic;
+	color:green;
+}
+p{
+	font-size:22;
+	color:red;
+	
+	
+}
+a
+{
+	color:blue;
+	text-decoration:none;
+	
+}
+a:hover
+{
+    color:DodgerBlue;	
+	 font-weight:bold;
+	
+}
+ul
+{
+
+}

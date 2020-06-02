@@ -1,0 +1,9 @@
+body
+{
+background-image:url("loading.gif");
+background-repeat:no-repeat;
+direction:fixed;
+background-position:center;
+background-size:100%;
+
+}
